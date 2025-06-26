@@ -34,17 +34,6 @@
 
 本项目基于 [InMoov开源机器人项目](http://inmoov.fr/) 开发。感谢 Gaël Langevin 和所有为InMoov项目做出贡献的开发者们。
 
-## 文件结构
-
-```
-├── STL/                 # 3D打印文件
-│   ├── BambuLab_A1/    # BambuLab A1 排盘文件
-│   └── QIDI_X-Plus4/   # QIDI X-Plus4 排盘文件
-├── docs/               # 文档资料
-├── assembly/           # 装配指南
-└── README.md          # 项目说明
-```
-
 ## 使用说明
 
 1. **选择合适的STL文件**：根据你的3D打印机型号选择对应的文件夹
